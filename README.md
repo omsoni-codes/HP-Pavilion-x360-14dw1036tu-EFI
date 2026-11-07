@@ -9,7 +9,7 @@
 [![Wi-Fi](https://img.shields.io/badge/Wi--Fi-Intel_AX201_Native-brightgreen.svg?style=for-the-badge&logo=wi-fi)](https://github.com/OpenIntelWireless/itlwm)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
 
-**Author:** [Vihaan Nathan (linuxkid473)](https://github.com/linuxkid473)  
+**Author:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
 **Target Hardware:** HP Pavilion x360 Convertible 14-dw1036tu (Board ID: `087F4`, InsydeH2O BIOS)  
 **Status:** 100% Fully Customized, Daily-Driver Production Quality
 
@@ -276,7 +276,7 @@ This project stands on the shoulders of the extraordinary open-source Hackintosh
 * **[laobamac](https://github.com/laobamac)**: For [SimpleHDA](https://github.com/laobamac/SimpleHDA), enabling Tiger Lake cAVS / SST audio controller initialization.
 * **[intelosx](https://github.com/intelosx)**: For [IntelVMD](https://github.com/intelosx/IntelVMD), providing native macOS driver support for the Intel Volume Management Device controller.
 * **[Dortania](https://dortania.github.io)**: For incredible architectural documentation and guides that make Hackintoshing transparent.
-* **[Vihaan Nathan (linuxkid473)](https://github.com/linuxkid473)**: Project architecture, hardware reverse engineering, custom ACPI tables, KASLR memory collision mapping, VMD shell automation, and bespoke EFI integration.
+* **[Om Soni (omsoni-codes)](https://github.com/omsoni-codes)**: Project architecture, hardware reverse engineering, custom ACPI tables, KASLR memory collision mapping, VMD shell automation, and bespoke EFI integration.
 
 ---
 

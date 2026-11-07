@@ -1,14 +1,14 @@
 #!/bin/bash
 # ==============================================================================
 # HP Pavilion x360 Convertible 14-dw1036tu - Standalone SSD Installer
-# Author: linuxkid473 (Vihaan Nathan)
-# Project: https://github.com/linuxkid473/HP-Pavilion-x360-14dw1036tu-EFI
+# Author: omsoni-codes (Om Soni)
+# Project: https://github.com/omsoni-codes/HP-Pavilion-x360-14dw1036tu-EFI
 # ==============================================================================
 set -e
 
 echo "================================================================="
 echo "   HP Pavilion x360 14-dw - Master Bespoke EFI SSD Installer   "
-echo "               Author: linuxkid473 | OpenCore 1.0.8              "
+echo "               Author: omsoni-codes | OpenCore 1.0.8              "
 echo "================================================================="
 echo ""
 

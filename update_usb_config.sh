@@ -1,8 +1,8 @@
 #!/bin/bash
 # ==============================================================================
 # HP Pavilion x360 Convertible 14-dw1036tu - Quick USB EFI Sync Utility
-# Author: linuxkid473 (Vihaan Nathan)
-# Project: https://github.com/linuxkid473/HP-Pavilion-x360-14dw1036tu-EFI
+# Author: omsoni-codes (Om Soni)
+# Project: https://github.com/omsoni-codes/HP-Pavilion-x360-14dw1036tu-EFI
 # ==============================================================================
 set -e
 
