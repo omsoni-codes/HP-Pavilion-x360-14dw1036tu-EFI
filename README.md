@@ -264,6 +264,24 @@ Once you have reached the macOS desktop, you can disconnect the USB flash drive 
 
 ---
 
+
+---
+
+## 📚 Technical Documentation & Deep-Dive Library
+
+For detailed engineering guides on every hardware subsystem, consult the dedicated guides in `docs/`:
+
+1. [⚙️ **BIOS Setup & NVRAM Registers Guide**](docs/BIOS_CONFIGURATION.md) - InsydeH2O BIOS settings, `setup_var.efi` offsets, and VMD restoration.
+2. [🎨 **Intel Xe-LP Graphics Architecture**](docs/TIGER_LAKE_GRAPHICS.md) - WhateverXe v0.7.0, AMFIPass, DVMT 60MB stolen memory, and Metal 2 acceleration.
+3. [🧠 **KASLR Memory Map Conflict Resolution**](docs/KASLR_SLIDE_EXPLAINED.md) - Why `slide=33` prevents low-memory collisions with HP stolen memory.
+4. [💾 **Intel Tiger Lake VMD Storage Guide**](docs/INTEL_VMD_STORAGE.md) - Western Digital PC SN530 NVMe routing and `IntelVMD.kext`.
+5. [🔊 **Realtek ALC287 Audio & Microphone Guide**](docs/AUDIO_ALC287_SETUP.md) - B&O speakers and internal mic routing on Intel SST/cAVS.
+6. [👆 **ELAN0722 Precision Trackpad & Touchscreen**](docs/TRACKPAD_AND_TOUCHSCREEN.md) - 120Hz polling and native multi-touch gestures.
+7. [⚡ **CPU Power Management & Deep Idle**](docs/POWER_MANAGEMENT_DEEP_IDLE.md) - Intel Speed Shift, C-states down to C10, and locked sleepimage.
+8. [❓ **Troubleshooting & FAQ**](docs/TROUBLESHOOTING_FAQ.md) - Solutions for boot freezes, missing drives, and audio tweaks.
+9. [🗺️ **macOS Compatibility Matrix**](docs/MACOS_COMPATIBILITY_MATRIX.md) - Multi-version breakdown for Tahoe, Sequoia, Sonoma, and Ventura.
+10. [🛡️ **Automated Repository Health Tracker**](MAINTENANCE.md) - Daily upstream driver release verification and component status.
+
 ## 🌟 Credits & Acknowledgments
 
 This project stands on the shoulders of the extraordinary open-source Hackintosh community:
