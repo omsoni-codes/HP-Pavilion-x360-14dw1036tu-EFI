@@ -1,7 +1,7 @@
 # 🔍 Component Health Card: Realtek ALC287 Audio Codec
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-12 20:13 IST` (`2026-11-12 14:43:54 UTC`)
+**Last Verified:** `2026-11-14 20:02 IST` (`2026-11-14 14:32:58 UTC`)
 
 ---
 
