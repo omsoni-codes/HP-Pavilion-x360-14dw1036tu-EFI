@@ -1,12 +1,12 @@
 # 🔍 Component Health Card: WhateverXe Intel Xe-LP GPU
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-16 20:02 IST` (`2026-11-16 14:32:45 UTC`)
+**Last Verified:** `2026-11-17 20:07 IST` (`2026-11-17 14:37:30 UTC`)
 
 ---
 
 * **Component**: WhateverXe Intel Xe-LP GPU
 * **Deployed Version**: `0.7.0`
-* **Upstream Latest**: `0.8.2`
-* **Status**: ℹ️ Upstream: 0.8.2
+* **Upstream Latest**: `0.8.3`
+* **Status**: ℹ️ Upstream: 0.8.3
 * **Subsystem Architecture**: Metal 2 hardware acceleration & Quartz Extreme active. DVMT 60MB stolen memory injected.
