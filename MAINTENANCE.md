@@ -2,7 +2,7 @@
 ### HP Pavilion x360 Convertible 14-dw1036tu macOS Tahoe & Sequoia OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
 **Verification Schedule:** Daily at 8:00 PM IST (14:30 UTC)  
-**Last Verified:** `2026-11-16 20:02 IST` (`2026-11-16 14:32:45 UTC`)
+**Last Verified:** `2026-11-17 20:07 IST` (`2026-11-17 14:37:30 UTC`)
 
 ---
 
@@ -11,7 +11,7 @@
 | Component | Deployed Version | Upstream Latest | Health Status | Subsystem Notes |
 | :--- | :---: | :---: | :---: | :--- |
 | **OpenCore UEFI Bootloader** | `1.0.8` | `1.0.8` | 🟢 Current | Verified schema compliant with OpenCore 1.0.8. Quirks tuned for HP InsydeH2O MAT. |
-| **WhateverXe Intel Xe-LP GPU** | `0.7.0` | `0.8.2` | ℹ️ Upstream: 0.8.2 | Metal 2 hardware acceleration & Quartz Extreme active. DVMT 60MB stolen memory injected. |
+| **WhateverXe Intel Xe-LP GPU** | `0.7.0` | `0.8.3` | ℹ️ Upstream: 0.8.3 | Metal 2 hardware acceleration & Quartz Extreme active. DVMT 60MB stolen memory injected. |
 | **Lilu Kernel Patcher** | `1.7.2` | `1.7.2` | 🟢 Current | Base kext patcher framework operating as primary kernel dependency. |
 | **Realtek ALC287 Audio Codec** | `1.9.8` | `1.9.8` | 🟢 Current | Layout-ID 13 active over Intel SST/cAVS controller (8086:A0C8) with SimpleHDA. |
 | **Intel Wi-Fi 6 AX201 Native** | `2.4.0` | `v2.3.0` | ℹ️ Upstream: v2.3.0 | Native Apple Control Center and Menu Bar Wi-Fi integration via AirportItlwm. |
