@@ -1,7 +1,7 @@
 # 🔍 Component Health Card: Intel Wi-Fi 6 AX201 Native
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-17 20:07 IST` (`2026-11-17 14:37:30 UTC`)
+**Last Verified:** `2026-11-18 20:12 IST` (`2026-11-18 14:42:28 UTC`)
 
 ---
 
