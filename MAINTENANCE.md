@@ -2,7 +2,7 @@
 ### HP Pavilion x360 Convertible 14-dw1036tu macOS Tahoe & Sequoia OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
 **Verification Schedule:** Daily at 8:00 PM IST (14:30 UTC)  
-**Last Verified:** `2026-11-17 20:07 IST` (`2026-11-17 14:37:30 UTC`)
+**Last Verified:** `2026-11-18 20:12 IST` (`2026-11-18 14:42:28 UTC`)
 
 ---
 
