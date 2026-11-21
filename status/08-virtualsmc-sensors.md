@@ -1,7 +1,7 @@
 # 🔍 Component Health Card: VirtualSMC & Battery Monitor
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-20 20:07 IST` (`2026-11-20 14:37:30 UTC`)
+**Last Verified:** `2026-11-21 20:00 IST` (`2026-11-21 14:30:05 UTC`)
 
 ---
 
