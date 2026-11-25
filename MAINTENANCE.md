@@ -2,7 +2,7 @@
 ### HP Pavilion x360 Convertible 14-dw1036tu macOS Tahoe & Sequoia OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
 **Verification Schedule:** Daily at 8:00 PM IST (14:30 UTC)  
-**Last Verified:** `2026-11-24 20:00 IST` (`2026-11-24 14:30:05 UTC`)
+**Last Verified:** `2026-11-25 20:11 IST` (`2026-11-25 14:41:01 UTC`)
 
 ---
 
@@ -17,7 +17,7 @@
 | **Intel Wi-Fi 6 AX201 Native** | `2.4.0` | `v2.3.0` | ℹ️ Upstream: v2.3.0 | Native Apple Control Center and Menu Bar Wi-Fi integration via AirportItlwm. |
 | **Intel AX201 Bluetooth 5.0** | `2.5.0` | `v2.4.0` | ℹ️ Upstream: v2.4.0 | HCI firmware upload & BlueToolFixup active for seamless Bluetooth pairing. |
 | **ELAN0722 Precision Trackpad** | `2.9.1` | `v2.9.1` | 🟢 Current | 120Hz polling enforced (-vi2c-force-polling) with multi-touch gestures and touchscreen. |
-| **VirtualSMC & Battery Monitor** | `1.3.8` | `1.3.8` | 🟢 Current | Apple SMC emulation with ECEnabler for 3-cell 43Wh battery percentage readings. |
+| **VirtualSMC & Battery Monitor** | `1.3.8` | `Checked` | ℹ️ Upstream: Checked | Apple SMC emulation with ECEnabler for 3-cell 43Wh battery percentage readings. |
 | **Intel Tiger Lake VMD NVMe** | `1.0.0` | `Checked` | ℹ️ Upstream: Checked | Western Digital SN530 NVMe block storage powered via VMD controller 8086:9A0B. |
 
 ---
