@@ -1,7 +1,7 @@
 # 🔍 Component Health Card: WhateverXe Intel Xe-LP GPU
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-24 20:00 IST` (`2026-11-24 14:30:05 UTC`)
+**Last Verified:** `2026-11-25 20:11 IST` (`2026-11-25 14:41:01 UTC`)
 
 ---
 
