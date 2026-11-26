@@ -1,7 +1,7 @@
 # 🔍 Component Health Card: Intel Tiger Lake VMD NVMe
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-25 20:11 IST` (`2026-11-25 14:41:01 UTC`)
+**Last Verified:** `2026-11-26 20:15 IST` (`2026-11-26 14:45:24 UTC`)
 
 ---
 
