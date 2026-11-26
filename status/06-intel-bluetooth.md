@@ -1,7 +1,7 @@
 # 🔍 Component Health Card: Intel AX201 Bluetooth 5.0
 ### HP Pavilion x360 Convertible 14-dw1036tu OpenCore EFI
 **Maintained by:** [Om Soni (omsoni-codes)](https://github.com/omsoni-codes)  
-**Last Verified:** `2026-11-24 20:00 IST` (`2026-11-24 14:30:05 UTC`)
+**Last Verified:** `2026-11-26 20:15 IST` (`2026-11-26 14:45:24 UTC`)
 
 ---
 
